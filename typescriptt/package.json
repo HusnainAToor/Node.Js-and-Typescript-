@@ -1,0 +1,22 @@
+{
+  "name": "typescriptt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^9.6.1",
+    "bluebird": "^3.5.1",
+    "glob": "^7.1.2",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "@types/glob": "^5.0.35",
+    "@types/yargs": "^11.0.0"
+  }
+}
